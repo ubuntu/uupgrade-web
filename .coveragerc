@@ -1,0 +1,3 @@
+[run]
+source = uupgrade_web
+omit = uupgrade_web/test*
