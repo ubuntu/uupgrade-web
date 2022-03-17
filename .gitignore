@@ -1,5 +1,8 @@
 *.egg-info
 .venv
+.venv/
+.env
+env/
 *.sqlite
 __pycache__
 
