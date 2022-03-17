@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyramid = "*"
+pyramid-jinja2 = "*"
+pyramid-debugtoolbar = "*"
+pyramid-tm = "*"
+transaction = "*"
+"zope.sqlalchemy" = "*"
+waitress = "*"
+SQLAlchemy = "*"
+
+[dev-packages]
+pytest = "*"
+pytest-cov = "*"
+WebTest = ">=1.3.1"
+
+[requires]
+python_version = "3.8"

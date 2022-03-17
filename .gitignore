@@ -2,3 +2,6 @@
 .venv
 *.sqlite
 __pycache__
+
+# .replit file runner
+.replit
